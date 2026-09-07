@@ -7,7 +7,7 @@
 
 ## Where this repository fits
 
-[📙 Theory](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory) → [🩷 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → **💚 Review**
+[🧡 Theory](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory) → [🩷 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → **💚 Review**
 
 Review is not another lesson and it is not simply a new problem set. It is where you return to something you previously learned or practised, test what you can recall without help and decide what needs revisiting.
 
@@ -19,15 +19,11 @@ Each review connects back to at least one earlier resource:
 - A **Practice session** when you need to recognise a pattern, solve a problem again or correct a repeated mistake.
 - Both Theory and Practice when a topic needs a complete knowledge check.
 
-## Current review pathway
+## Find a review
 
-| Topic | Revisit Theory | Revisit Practice | What to check |
-| --- | --- | --- | --- |
-| Maps and frequency counting | [Theory Session 01](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/tree/main/Leetcode-Typescript/Session-01-Maps-and-Frequency) | Practice link will be added when available | Can you build and compare frequency counts? |
-| Palindromes | [Theory Session 02](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/tree/main/Leetcode-Typescript/Session-02-Palindromes) | Practice link will be added when available | Can you distinguish construction from substring search? |
-| Fixed-length sliding windows | [Theory Session 03](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/tree/main/Leetcode-Typescript/Session-03-Fixed-Length-Sliding-Windows) and [Session 04](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/tree/main/Leetcode-Typescript/Session-04-Sliding-Window-Reinforcement) | [Practice Session 01](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice/tree/main/Leetcode-Typescript/Session-01-Fixed-Length-Sliding-Windows) | Can you update a fixed window without recalculating it? |
+Open the relevant language folder and choose a topic. Each topic README links directly to the Theory or Practice sessions being revisited and explains what knowledge to check.
 
-Review resources will be added to this repository as the programme develops.
+The topic folders are the review index, so this main README does not need to be updated whenever a Theory session, Practice session or review topic is added.
 
 ## How review works
 
