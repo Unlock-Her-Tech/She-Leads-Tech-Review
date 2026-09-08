@@ -45,7 +45,7 @@ Use this cycle for every topic:
 | 1 week later | Re-solve one representative Practice problem |
 | 2–4 weeks later | Explain the pattern and solve a mixed or interview-style problem |
 
-Treat the schedule as guidance. Revisit a topic sooner when it still feels unclear.
+Treat the schedule as guidance. Revisit a topic sooner if it still feels unclear.
 
 ## Review resource structure
 
